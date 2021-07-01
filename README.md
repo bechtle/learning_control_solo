@@ -10,8 +10,10 @@ Learning for model based control can be sample-efficient and generalize well, ho
 
 Instructions:
 
-To install the simulation environment please refer to https://github.com/open-dynamic-robot-initiative/robot_properties_solo
+To install the simulation environment please refer to https://github.com/open-dynamic-robot-initiative/robot_properties_solo 
+
 dependencies: pytorch, numpy
+
 To run the code do: python mbrl_solo.py
 
 Description of the code:
